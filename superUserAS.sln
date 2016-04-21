@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "superUserAS", "superUserAS\superUserAS.dwproj", "{D1B571E6-2508-4A2B-923D-4663F5B3DA7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B571E6-2508-4A2B-923D-4663F5B3DA7E}.Development|Default.ActiveCfg = Development
+		{D1B571E6-2508-4A2B-923D-4663F5B3DA7E}.Development|Default.Build.0 = Development
+		{D1B571E6-2508-4A2B-923D-4663F5B3DA7E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
