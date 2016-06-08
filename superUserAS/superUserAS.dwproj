@@ -17,16 +17,6 @@
         </ProjectItem>
       </Dependencies>
     </ProjectItem>
-    <ProjectItem>
-      <Name>NewCube.cube</Name>
-      <FullPath>NewCube.cube</FullPath>
-      <Dependencies>
-        <ProjectItem>
-          <Name>NewCube.partitions</Name>
-          <FullPath>NewCube.partitions</FullPath>
-        </ProjectItem>
-      </Dependencies>
-    </ProjectItem>
   </Cubes>
   <Dimensions>
     <ProjectItem>

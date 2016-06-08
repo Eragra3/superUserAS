@@ -42,26 +42,6 @@
       </Partitions>
     </MeasureGroup>
     <MeasureGroup>
-      <ID>Time</ID>
-      <Partitions>
-        <Partition dwd:design-time-name="efd56848-9b6b-4066-9d3d-7e27c44c0fa4">
-          <ID>Time</ID>
-          <Name>Time</Name>
-          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
-          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
-          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
-          <State>Unprocessed</State>
-          <Source xsi:type="DsvTableBinding" dwd:design-time-name="53bb2253-f5f9-47aa-9311-9024de874535">
-            <DataSourceViewID>Superuser Warehouse</DataSourceViewID>
-            <TableID>dbo_Time</TableID>
-          </Source>
-          <StorageMode>Molap</StorageMode>
-          <CurrentStorageMode>Molap</CurrentStorageMode>
-          <ProcessingMode>Regular</ProcessingMode>
-        </Partition>
-      </Partitions>
-    </MeasureGroup>
-    <MeasureGroup>
       <ID>Users New</ID>
       <Partitions>
         <Partition dwd:design-time-name="e826f89e-27b8-4b33-93f7-1452823a2279">
